@@ -9,9 +9,9 @@ body {
 }
 
 header {
-	background: -webkit-linear-gradient(top, transparent 0%, black 100%), url(moon2.jpg) center no-repeat;
-	background: linear-gradient(top bottom transparent 0%, black 100%), url(moon2.jpg) center no-repeat;
-	background: -moz-linear-gradient(top, transparent 0%, black 100%), url(moon2.jpg) center no-repeat;
+	background: -webkit-linear-gradient(top, transparent 0%, black 100%), url(../png/moon2.jpg) center no-repeat;
+	background: linear-gradient(top bottom transparent 0%, black 100%), url(../png/moon2.jpg) center no-repeat;
+	background: -moz-linear-gradient(top, transparent 0%, black 100%), url(../png/moon2.jpg) center no-repeat;
 	color: white;
 	height: 80em;
 	margin: 0px;
@@ -167,7 +167,7 @@ header img {
 }
 
 .star1 {
-	background: url(star.jpg) center no-repeat;
+	background: url(../png/star.jpg) center no-repeat;
 	filter: blur(1px);
 	-webkit-filter: blur(1px);
 	position: absolute;
@@ -176,7 +176,7 @@ header img {
 }
 
 .star2 {
-	background: url(star2.jpg) center no-repeat;
+	background: url(../png/star2.jpg) center no-repeat;
 	filter: blur(1px);
 	-webkit-filter: blur(2px);
 	max-width: 100%;
@@ -189,7 +189,7 @@ header img {
 }
 
 .star3 {
-	background: url(blackhole.jpg) center no-repeat;
+	background: url(../png/blackhole.jpg) center no-repeat;
 	filter: blur(1px);
 	max-width: 100%;
 	background-size: cover;
