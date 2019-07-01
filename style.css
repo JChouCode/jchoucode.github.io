@@ -1,6 +1,6 @@
 body {
 	background: white;
-	font-family: "Lucida Sans Typewriter", "Lucida Console", Monaco;
+	font-family: "Lato", "Lucida Sans Typewriter", "Roboto Mono", sans-serif, Monaco;
 	font-size: 13px;
 	font-weight: 300;
 	margin: 0px;
@@ -886,6 +886,9 @@ ul {
 	text-align: left;
 }
 
+#projects p {
+	text-align: left;
+}
 
 #penult {
 	width: 100%;
