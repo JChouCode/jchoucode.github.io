@@ -344,16 +344,6 @@ header img {
 	transform: rotate(-45deg);
 }
 
-#line1.reverse {
-	transform: rotate(-45deg);
-}
-
-#line2.reverse {
-	transform: rotate(45deg);
-}
-
-
-
 #rectangle {
 	position: absolute;
 	margin: auto;
@@ -576,11 +566,11 @@ header img {
 #line3 {
 	transform: rotate(-45deg);
 	transform-origin: 50% 45%;
-	transition: 3s all cubic-bezier(0.23, 1, 0.32, 1);
+	transition: 5s all cubic-bezier(0.23, 1, 0.32, 1);
 	height: 100%;
 	width: 3.5px;
 	background: white;
-	opacity: 0.2;
+	opacity: 0;
 	position: absolute;
 	left: 0px;
 	right: 0px;
@@ -588,20 +578,28 @@ header img {
 	bottom: 0px;
 }
 
+#line3.animate {
+	opacity: 0.2;
+}
+
 #line4 {
 	transform: rotate(45deg);
 	transform-origin: 50% 55%;
-	transition: 3s all cubic-bezier(0.23, 1, 0.32, 1);
+	transition: 5s all cubic-bezier(0.23, 1, 0.32, 1);
 	height: 100%;
 	width: 3.5px;
 	background: white;
-	opacity: 0.2;
+	opacity: 0;
 	z-index: 1;
 	position: absolute;
 	left: 0px;
 	right: 0px;
 	top: 8em;
 	bottom: 0px;
+}
+
+#line4.animate {
+	opacity: 0.2;
 }
 
 #experience .scroll {
