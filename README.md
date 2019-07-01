@@ -1,5 +1,5 @@
 # Jeffrey Chou's Personal Website
 
-Welcome to my personal website. Check it out!
+Welcome to my personal website. [Check it out!](jchoucode.github.io)
 
 Total time spent coding: 2 days.
