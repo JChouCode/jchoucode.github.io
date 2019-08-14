@@ -1,6 +1,6 @@
 # Jeffrey Chou's Personal Website
 
-This website is **DEPRECATED**, updated website at [jchou.dev](jchou.dev)
+This website is **DEPRECATED**, updated website at [jchou.dev](jchou.dev), hosted from [jchou-web](https://github.com/JChouCode/jchou-web/)
 
 ## Introduction
 
