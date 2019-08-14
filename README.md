@@ -1,6 +1,6 @@
 # Jeffrey Chou's Personal Website
 
-Hello, nice to meet you.
+This website is **DEPRECATED**, updated website at [jchou.dev](jchou.dev)
 
 ## Introduction
 
